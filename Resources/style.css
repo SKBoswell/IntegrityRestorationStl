@@ -8,12 +8,20 @@ body {
     height: 500px;
 }
 
-#banner h1 {
+#banner-text {
     color: black;
     font-weight: bold;
     word-spacing: 25px;
     letter-spacing: 7px;
     align-items: center;
-    text-decoration: underline;
+
+}
+
+#section-heading {
+    color: black;
+    font-weight: bold;
+    word-spacing: 15px;
+    letter-spacing: 4px;
+    align-items: center;
 }
 
