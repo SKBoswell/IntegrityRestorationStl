@@ -1,0 +1,11 @@
+#banner {
+    background-image: url("./images/banner.jpg");
+    opacity: 0.75;
+}
+
+#banner h1, p {
+    color: black;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
