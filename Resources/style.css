@@ -1,11 +1,19 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
 #banner {
     background-image: url("./images/banner.jpg");
     opacity: 0.75;
+    height: 500px;
 }
 
-#banner h1, p {
+#banner h1 {
     color: black;
     font-weight: bold;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    word-spacing: 25px;
+    letter-spacing: 7px;
+    align-items: center;
+    text-decoration: underline;
 }
 
